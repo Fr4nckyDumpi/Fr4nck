@@ -4,7 +4,7 @@ I don't really use Github anymore, I'm now on Gitlab on Premise.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Franck-Crtx&show_icons=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Franck-Crtx&repo=StatFive)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Franck-Crtx&repo=StatFive)](https://github.com/Franck-Crtx/StatFive)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franck-Crtx)](https://github.com/anuraghazra/github-readme-stats)
 
